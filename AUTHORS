@@ -1,0 +1,6 @@
+The Terra Game Engine was written by the following people, directly or
+indirectly. What they contributed is noted.
+
+Laurent Gomilla     - The SFML library used as the base
+Kody Kurtz          - The engine itself
+Thorbjørn Lindeijer - The Tiled map editor
